@@ -16,6 +16,7 @@ make
 ./so_long ./maps/2.ber
 ```
 in the case you want to play map number 2. There are 3.
+Enjoy!
 
 ## Disclaimer
 All mlx functions was developed by 42 school.
