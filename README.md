@@ -19,5 +19,5 @@ in the case you want to play map number 2. There are 3.
 Enjoy!
 
 ## Disclaimer
-All mlx functions was developed by 42 school.
+All mlx functions were developed by 42 school.
 The image in this game was processed with gimp. In Linux images have low quality.
